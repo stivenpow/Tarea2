@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+    <string name="ingrese">Ingrese los valores o use aleatorios</string>
+    <string name="x1">X1</string>
+    <string name="y1">Y1</string>
+    <string name="x2">X2</string>
+    <string name="y2">Y2</string>
+    <string name="pm">Punto Medio</string>
+    <string name="cuadra">Cuadrante</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="aleatorio">Aleatorio</string>
+    <string name="dis">Distancia</string>
+</resources>
